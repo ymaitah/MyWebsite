@@ -1,3 +1,3 @@
-# My cool about section
+# About me
 
-i am an electrical engineer
+Hello! My name is Yousef Maitah and I am a student at the University of Michigan studying electrical engineering
