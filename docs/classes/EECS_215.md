@@ -6,4 +6,4 @@ tags:
 ...
 
 
-fred terry
+ Professor: Fred Terry Jr.
