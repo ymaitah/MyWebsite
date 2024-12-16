@@ -1,6 +1,6 @@
 # About me
 
-Hello! My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I am interested in Embedded Systems and Computer Architecture.  
+Hello! My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I am interested in Microelectronics and Integrated Circuits.  
 [Resume](./Yousef%20Maitah%20Resume%20R3.pdf)
 
 ![Image title](./cachedImage.PNG){ style="float: right; width: 400px; margin-left: 20px;" }
