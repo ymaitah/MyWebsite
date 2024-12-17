@@ -1,6 +1,6 @@
 # About me
 
-Hello! My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I am interested in Microelectronics and Integrated Circuits.  
+Hello! My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I am interested in Computer Architecture and Embedded Systems.  
 [Resume](./Yousef%20Maitah%20Resume%20R3.pdf)
 
 ![Image title](./cachedImage.PNG){ style="float: right; width: 400px; margin-left: 20px;" }
@@ -19,6 +19,11 @@ EECS 280: Programming and Data Structures
 EECS 312: Digital Integrated Circuits  
 EECS 370: Introduction to Computer Organization  
 EECS 428: Quantum Nanotechnology  
+
+### Currently Enrolled In
+EECS 300: Electrical Engineering Systems Design II  
+EECS 301: Probabilistic Methods in Engineering  
+EECS 373: Introduction to Embedded System Design  
 
 ## Internships
 Engineering Intern, Nexteer Automotive, Summer 2024  
