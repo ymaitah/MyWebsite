@@ -1,6 +1,8 @@
 # About me
 
-Hello! My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I am interested in Computer Architecture and Embedded Systems.  
+Greetings!
+
+My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I was born in Amman, Jordan and moved to Michigan when I was two years old. Some of my hobbies include basketball, card games, and cars. I'm also obsessed with computers. I now study in Ann Arbor where I am focusing on Computer Architecture and Embedded Systems.  
 [Resume](./Yousef%20Maitah%20Resume%20R3.pdf)
 
 ![Image title](./cachedImage.PNG){ style="float: right; width: 400px; margin-left: 20px;" }
@@ -27,7 +29,7 @@ EECS 373: Introduction to Embedded System Design
 
 ## Internships
 Engineering Intern, Nexteer Automotive, Summer 2024  
-I was a part of the Ford Systems Application team at Nexteer  
+I worked on system integration as part of the Ford Systems Application team
 
 Engineering Intern, Nexteer Automotive, Summer 2023  
 I worked on ECU validation as part of the Application Test team
