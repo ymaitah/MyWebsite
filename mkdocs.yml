@@ -37,15 +37,15 @@ markdown_extensions:
 
 plugins:
   - search
-  - tags:
-      tags_file: tags.md
+  # - tags:
+  #     tags_file: tags.md
   - blog
 
 nav: 
   - Home: index.md
   - About: about.md
   - Classes:
-    - EECS 215: classes/EECS_215.md
-  - Tags: tags.md
+    - EECS 183: classes/EECS_183.md
+# - Tags: tags.md
   - Blog:
     - FA 24: blog/index.md
