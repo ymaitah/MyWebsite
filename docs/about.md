@@ -1,8 +1,13 @@
 # About me
 
-Greetings!
+**Hello and welcome!**
 
-My name is Yousef Maitah and I am a senior at the University of Michigan studying Electrical Engineering. I was born in Amman, Jordan and moved to Michigan when I was two years old. Some of my hobbies include basketball, card games, and cars. I'm also obsessed with computers. I now study in Ann Arbor where I am focusing on Computer Architecture and Embedded Systems.  
+I'm Yousef Maitah, a senior at the University of Michigan, where I dive deep into the fascinating world of electrical engineering. Originally born in Amman, Jordan, I made the leap to Michigan at the age of two and have been calling it home ever since.
+
+When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in computer architecture and embedded systems here in Ann Arbor.
+
+Thank you for stopping by, and feel free to connect with me over any shared interests or professional opportunities!
+
 [Resume](./Yousef%20Maitah%20Resume%20R3.pdf)
 
 ![Image title](./cachedImage.PNG){ style="float: right; width: 400px; margin-left: 20px;" }
