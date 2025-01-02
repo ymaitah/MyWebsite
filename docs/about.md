@@ -2,9 +2,7 @@
 
 **Hello and welcome!**
 
-I'm Yousef Maitah, a senior at the University of Michigan, where I dive deep into the fascinating world of electrical engineering. Originally born in Amman, Jordan, I made the leap to Michigan at the age of two and have been calling it home ever since.
-
-When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in computer architecture and embedded systems here in Ann Arbor.
+I'm Yousef Maitah, a senior at the University of Michigan majoring in electrical engineering. When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in computer architecture and embedded systems here in Ann Arbor.
 
 Thank you for stopping by, and feel free to connect with me over any shared interests or professional opportunities!
 
@@ -34,7 +32,7 @@ EECS 373: Introduction to Embedded System Design
 
 ## Internships
 Engineering Intern, Nexteer Automotive, Summer 2024  
-I worked on system integration as part of the Ford Systems Application team
+As part of the Ford Systems Application team, I designed an ignition test box for the Steer-by-Wire project and conducted deep-dive analyses of OEM requirements.
 
 Engineering Intern, Nexteer Automotive, Summer 2023  
-I worked on ECU validation as part of the Application Test team
+Working with the Application Test team, I designed and executed test procedures for ECU-based electric power steering systems and improved testing efficiency.
