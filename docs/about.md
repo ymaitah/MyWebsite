@@ -2,7 +2,7 @@
 
 **Hello and welcome!**
 
-I'm Yousef Maitah, a senior at the University of Michigan majoring in electrical engineering. When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in Integrated Circuits & VLSI here in Ann Arbor.
+I'm Yousef Maitah, a senior at the University of Michigan majoring in electrical engineering. When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in computer architecture and integrated circuits here in Ann Arbor.
 
 Thank you for stopping by, and feel free to connect with me over any shared interests or professional opportunities!
 
