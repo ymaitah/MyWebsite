@@ -2,7 +2,7 @@
 
 **Hello and welcome!**
 
-I'm Yousef Maitah, a senior at the University of Michigan majoring in electrical engineering. When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in computer architecture and embedded systems here in Ann Arbor.
+I'm Yousef Maitah, a senior at the University of Michigan majoring in electrical engineering. When I'm not buried in circuits and code, I enjoy engaging in activities like basketball, card games, and working on cars. My passion for computers has led me to specialize in Integrated Circuits & VLSI here in Ann Arbor.
 
 Thank you for stopping by, and feel free to connect with me over any shared interests or professional opportunities!
 
@@ -25,10 +25,10 @@ EECS 312: Digital Integrated Circuits
 EECS 370: Introduction to Computer Organization  
 EECS 428: Quantum Nanotechnology  
 
-### Currently Enrolled In
-EECS 300: Electrical Engineering Systems Design II  
+### Currently Enrolled In  
 EECS 301: Probabilistic Methods in Engineering  
-EECS 373: Introduction to Embedded System Design  
+EECS 320: Introduction to Semiconductor Devices  
+EECS 460: Control Systems Analysis and Design  
 
 ## Internships
 Engineering Intern, Nexteer Automotive, Summer 2024  
